@@ -2,3 +2,4 @@
 
 import kivy
 
+a = kivy.animation.Animation()
